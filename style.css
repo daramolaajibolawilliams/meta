@@ -1,0 +1,145 @@
+    
+    header{
+        position:0;
+        background-color: rgb(97, 10, 10);
+        color: rgb(141, 153, 70);
+        font-size: 18px;
+         text-align: center;
+        padding-top: 1px;
+        text-decoration: none;
+    }
+    body{
+
+        background-color: rgb(182, 80, 80);
+        color: beige;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    footer{
+    background-color: rgb(97, 10, 10);
+    line-height: 60px;
+    text-align: end;
+    padding: bottom 70px;
+    color: rgb(141, 153, 70);
+    }
+  
+     a{
+        text-align: center;
+        padding: 0 100px 0 100px;
+        text-transform: uppercase;
+        color: rgb(31, 10, 10);
+        text-decoration: none;
+        font-size: 18px;
+        
+     }
+     .navbar{
+        font-size: large 1rem;
+        font-weight: 500;
+        color: 
+     }
+     
+     .navbar:hover{
+    
+        border-radius:  1rem;
+        color:rgb(14, 7, 7);
+     }
+     
+     .nav{
+        display:inline;
+        text-align:center;
+
+    }
+    
+    .kit{
+        
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         color: rgb(36, 23, 23);
+        font-size: 40px;
+        font-weight: 300;
+        font-style:italic;
+        text-transform:uppercase;
+            
+        }
+    .jet{
+        font-size: 30px;
+        background-color: rgba(88, 0, 0, 0.692);
+        font-style: normal;
+        font-weight: 200;
+        text-decoration: solid;
+    }
+    .tik{
+        line-height: 50px;
+        text-transform: capitalize;
+        bottom: 2px;
+    }
+    .resume{
+        background-color: rgb(214, 160, 79);
+    }
+    .vod h1{
+        color: rgb(141, 153, 70);
+        background-color: brown;
+        line-height: 60px;
+        text-align: center;
+        padding-top: 1px;
+        font-weight: 700;
+        font-size: 36px;
+    }
+    .con{
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    button{
+        background-color: transparent;
+        border-radius: 5px;
+    }
+    button:hover{
+        color: #000;
+        background-color: aliceblue;
+        border: #000;
+        border-radius: 2px 2px 2px 2px;
+        padding-left: 10px;
+        transition: all 300ms;
+    }
+    .guu{
+        background-color: brown;
+        line-height: 60px;
+        text-align: center;
+        color: rgb(141, 153, 70);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .vad{
+        background-color: transparent;border-radius: 5px;
+        border-bottom:#000 ;
+        border-top: #000;
+        border-left:#000;
+        border-right:#000;
+        transition: all 0.3ms;
+    }
+    .aa:hover{
+        background-color: rgb(187, 129, 129);
+        border-radius: 2px;
+        width: min-content;
+
+    }
+    .cc:hover{
+        background-color: rgb(187, 129, 129);
+        border-radius: 2px;
+    }
+   .zz:hover{
+    background-color: rgb(187, 129, 129);
+        border-radius: 2px;
+   }
+.sa:hover{
+    background-color: rgb(187, 129, 129);
+        border-radius: 2px;
+}
+.home-active:hover{
+    background-color: rgb(187, 129, 129);
+    border-radius: 2px;
+}
+.vik{ background-color: brown;
+    line-height: 60px;
+    text-align: center;
+    color: rgb(141, 153, 70);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
